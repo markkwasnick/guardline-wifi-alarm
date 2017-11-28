@@ -12,7 +12,7 @@ When a sensor is tripped, an event will be published to particle.io named `SENSO
 
 [Particle Photon](https://store.particle.io/products/photon)
 
-A breadboard, wiring shield or whatever you want to build the circuit.
+A breadboard, wiring shield or whatever you want to build the [circuit](#circuit).
 
 ## Setup
 
